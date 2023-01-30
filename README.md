@@ -1,2 +1,2 @@
-I this python script you con suspend, restart, shutdown your pc.
+I this python script you can suspend, restart, shutdown your pc.
 i have done this because i was bored...
